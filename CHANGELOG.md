@@ -1,9 +1,13 @@
-# Change Log
+# Changelog
 
-All notable changes to the "pacific-first" extension will be documented in this file.
+## 0.0.1
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+Initial Release. Subject to change.
 
-## [Unreleased]
+### Added
 
-- Initial release
+- Pacific First theme
+- Examples to test the theme with in the `test` folder
+- Images in the `assets` folder
+- Package
+- Readme and Changelog
