@@ -1,0 +1,23 @@
+{
+    "name": "pacific-first",
+    "publisher": "daelvn",
+    "readme": "README.md",
+    "displayName": "Pacific First",
+    "description": "A light theme that actually looks decent.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pacific First",
+                "uiTheme": "vs",
+                "path": "./themes/Pacific First-color-theme.json"
+            }
+        ]
+    }
+}
