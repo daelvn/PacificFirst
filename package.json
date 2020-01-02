@@ -8,7 +8,7 @@
     },
     "displayName": "Pacific First",
     "description": "A light theme that actually looks decent.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.41.0"
     },
