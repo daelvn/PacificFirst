@@ -1,7 +1,11 @@
 {
     "name": "pacific-first",
     "publisher": "daelvn",
+    "icon": "assets/pacific-first.png",
     "readme": "README.md",
+    "repository": {
+        "url": "https://github.com/daelvn/PacificFirst"
+    },
     "displayName": "Pacific First",
     "description": "A light theme that actually looks decent.",
     "version": "0.0.1",
