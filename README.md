@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Pacific First</h1>
 <p align="center">
-  <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/d/daelvn.PacificFirst?style=for-the-badge"> <img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/daelvn/PacificFirst?style=for-the-badge">
+  <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/d/daelvn.pacific-first?style=for-the-badge"> <img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/daelvn/PacificFirst?style=for-the-badge">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/daelvn/PacificFirst?style=for-the-badge">
 </p>
 <p align="center">
@@ -23,6 +23,8 @@ This is sort of an attempt to put together a light colorscheme I like (which is 
 Pacific was going to be the name for the colorscheme, but since this is the first iteration, and put together too quickly, I figure it it totally going to change in the future, so I'm calling this Pacific First.
 
 And yes, I went through all the hassle of registering myself as a publisher for this.
+
+And I also probably suffer from a very bad case of the [IKEA Effect](https://en.wikipedia.org/wiki/IKEA_effect).
 
 ## Installing
 
