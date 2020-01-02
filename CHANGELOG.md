@@ -1,8 +1,12 @@
 # Changelog
 
-## 0.0.1
+## 0.0.2
 
-Initial Release. Subject to change.
+### Added
+
+- Cold variant of the theme.
+
+## 0.0.1
 
 ### Added
 

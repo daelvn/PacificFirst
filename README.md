@@ -9,8 +9,13 @@
 <p align="center">
   A light theme that actually looks decent for VSCode.
 </p>
+<p align="center">
+  Comes in two variations. "Pacific First" and "Pacific First Cold"
+</p>
 
 <img align="center" style="display: block; margin-left: auto; margin-right: auto; width: auto;" src="assets/example.png">
+
+<img align="center" style="display: block; margin-left: auto; margin-right: auto; width: auto;" src="assets/example-cold.png">
 
 <hr>
 
@@ -25,6 +30,10 @@ Pacific was going to be the name for the colorscheme, but since this is the firs
 And yes, I went through all the hassle of registering myself as a publisher for this.
 
 And I also probably suffer from a very bad case of the [IKEA Effect](https://en.wikipedia.org/wiki/IKEA_effect).
+
+## Sidenotes
+
+Pacific First Cold uses a colder white color as opposed to the creamy one that is on the default theme.
 
 ## Installing
 

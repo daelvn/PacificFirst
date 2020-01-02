@@ -21,6 +21,11 @@
                 "label": "Pacific First",
                 "uiTheme": "vs",
                 "path": "./themes/Pacific First-color-theme.json"
+            },
+            {
+                "label": "Pacific First Cold",
+                "uiTheme": "vs",
+                "path": "./themes/Pacific First Cold-color-theme.json"
             }
         ]
     }
